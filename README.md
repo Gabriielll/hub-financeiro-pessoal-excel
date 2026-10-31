@@ -6,7 +6,7 @@ Projeto final do bootcamp **Santander – Excel com IA e Claude**, realizado na 
 
 > Todos os dados, valores e percentuais são **fictícios** e servem apenas para fins educacionais.
 
-![Dashboard](images/dashboard_geral.png)
+![Dashboard](image/dashboard_geral.png)
 
 ## Objetivo
 
@@ -88,7 +88,7 @@ O projeto foi planejado, montado e conferido com apoio do **Claude**: estrutura 
 hub-financeiro-pessoal-excel/
 ├── hub_financeiro_pessoal.xlsx
 ├── README.md
-└── images/
+└── image/
     ├── menu.png
     ├── dashboard_geral.png
     ├── dashboard_filtrado.png
@@ -100,11 +100,11 @@ hub-financeiro-pessoal-excel/
 
 | Dashboard (todos os períodos) | Dashboard (2025 + T1) |
 |---|---|
-| ![Dashboard geral](images/dashboard_geral.png) | ![Dashboard filtrado](images/dashboard_filtrado.png) |
+| ![Dashboard geral](image/dashboard_geral.png) | ![Dashboard filtrado](image/dashboard_filtrado.png) |
 
 | Menu | Simulador |
 |---|---|
-| ![Menu](images/menu.png) | ![Simulador](images/simulador.png) |
+| ![Menu](image/menu.png) | ![Simulador](image/simulador.png) |
 
 ## Autor
 
